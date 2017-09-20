@@ -8,3 +8,4 @@ pythin project to show a list of movies and their trailers
 #entertainment_center.py
 - You can initilase different movies objects here and include the objects in an array 
 - The array is then sent as an argument to a function which generated a HTML page to dsplay all the movies. 
+- Run the entertainment_center.py and automatically a HTML page generates and lists the movies that are included in the file.
