@@ -11,6 +11,7 @@ import webbrowser
 -show_trailer function to how the youtube video of the movie trailer. 
 """
 class Movie():
+    # Class constructor to initilise the instance variables
     def __init__(self, movie_title, movie_storyline, movie_poster, movie_trailer):
         self.title = movie_title
         self.storyline = movie_storyline
