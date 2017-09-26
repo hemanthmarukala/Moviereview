@@ -54,4 +54,3 @@ movie_objects = [
 
 # function to show the objects in a HTML page
 fresh_tomatoes.open_movies_page(movie_objects)
-
