@@ -1,5 +1,9 @@
 # Moviereview
-python project to show a list of movies and their trailers
+- python project to show a list of movies and their trailers.
+- Dowload or clone the project to the desired location
+- Open IDLE terminal and naviaget to entertainment_center.py file and run the file
+- Your browser will open automatically and load your favorite movies. 
+
 
 #Movie.py
 
